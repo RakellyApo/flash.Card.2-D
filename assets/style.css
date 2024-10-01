@@ -1,10 +1,16 @@
-:root{
+:root {
     --text-color: #ffffff;
     --card-front-color: #144480;
     --card-back-color: #51BBA9;
-  }
-  
-  body {
+}
+
+body {
     background: url(img/bg-desktop-blue.webp);
     font-family: Josefin Sans;
-  }
+}
+
+.cartao__conteudo {
+    background-color: var(--card-front-color);
+    text-align: center;
+    height: 100%;
+}
