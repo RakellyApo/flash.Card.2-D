@@ -60,14 +60,12 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao:hover {
-    transform-style: preserve-3d;
-    transition: transform 300ms ease-in-out
-}
-
-.cartao__conteudo__frente,
-.cartao__conteudo__verso {
+.cartao__conteudo__pergunta,
+.cartao__conteudo__respota {
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 footer {
