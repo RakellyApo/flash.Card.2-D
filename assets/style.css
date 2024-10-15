@@ -67,6 +67,9 @@ body {
     height: 100%;
     width: 100%;
 }
+.cartao__conteudo__respota{
+    transform: rotateY(180deg);
+}
 
 footer {
     background-color: black;
