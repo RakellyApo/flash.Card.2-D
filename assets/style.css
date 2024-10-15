@@ -52,7 +52,7 @@ body {
     font-weight: 500;
 }
 
-.cartao__conteudo__respota p {
+.cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
 }
@@ -61,13 +61,13 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao__conteudo__pergunta,.cartao__conteudo__respota {
+.cartao__conteudo__pergunta,.cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
     width: 100%;
 }
-.cartao__conteudo__respota{
+.cartao__conteudo__resposta{
     transform: rotateY(180deg);
 }
 
