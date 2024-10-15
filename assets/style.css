@@ -1,3 +1,4 @@
+@import url(´https://fonts.googleapis.com/css2?fsmily=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap`)
 :root {
     --text-color: #ffffff;
     --card-front-color: #2196f3;
@@ -60,8 +61,7 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao__conteudo__pergunta,
-.cartao__conteudo__respota {
+.cartao__conteudo__pergunta,.cartao__conteudo__respota {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
