@@ -19,33 +19,33 @@ criaCartao(
     'Adolf Hitler'
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'biologia',
+    'As plantas de linhagem pura foram determinantes para o sucesso dos experimentos de Mendel, já que:',
+    'as características transmitidas às sucessivas gerações eram as mesmas.'
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'química',
+    'obre a organização da Tabela Periódica atual, responda:Qual o método utilizado para organizar os elementos químicos?',
+    'Os elementos químicos na Tabela Periódica atual estão organizados por ordem  crescente de número atômico, que indica o número de prótons no núcleo do átomo.',
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'geografia',
+    'Qual é a capital da Suíça?',
+    ' Berna '
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'filosofia',
+    'O quê é filosofia?',
+    ' tem origem grega, e significa “amor à sabedoria”.'
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'Educação Financeira',
+    'Visando obter um montante de, no mínimo, R$12 000,00 em seis meses, um capital foi aplicado no sistema de juros compostos a uma taxa mensal de 1,3%. Para conseguir terminar o prazo com o total estipulado e aplicando o menor capital possível, sob estas condições, este capital deverá ser de',
+    ' R$11 111,11'
 )
 criaCartao(
-    'inglês'
-    'Traduza: Don’t be afraid to be who you are.'
-    'Não tenha medo de ser quem você é!'
+    'Fisica',
+    'Determine o trabalho realizado por um corpo de massa 30 kg para que sua energia cinética aumenta, ao passo que sua velocidade aumenta de 5 m/s para 25 m/s?',
+    'Resposta correta:9000 J.'
 )
 
