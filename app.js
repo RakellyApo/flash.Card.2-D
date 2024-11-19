@@ -1,6 +1,5 @@
 function criaCartao(categoria, pergunta, resposta) {
     let cartao = document.createElement('article')
-
     cartao.ClassName = 'cartao'
     cartao.innerHTML = `
 <div class="cartao__conteudo">
@@ -14,7 +13,7 @@ function criaCartao(categoria, pergunta, resposta) {
                 </div>
  `
     let respostaEstaVisivel = false
-    function viraCartao() {
+    function viraCartao(){
         respostaEstaVisivel = !respostaEstaVisivel
         cartao.classList.toggle('active', respostaEstaVisivel)
     }
